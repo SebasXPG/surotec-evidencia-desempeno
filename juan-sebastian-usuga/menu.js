@@ -2,6 +2,7 @@ import { ejercicio1 } from "./ejercicio1.js";
 import { ejercicio2 } from "./ejercicio2.js";
 import { ejercicio3 } from "./ejercicio3.js";
 import { ejercicio4 } from "./ejercicio4.js";
+import { ejercicio5 } from "./ejercicio5.js";
 
 function ejecutarMenu() {
   let opcion = "";
